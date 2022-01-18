@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: OPPOSans2;
+    font-weight: 400;
+    src: url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Regular.a839069.eot#iefix) format("embedded-opentype"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Regular.0cec83b.woff) format("woff"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Regular.fe88b01.woff2) format("woff2"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Regular.34b2471.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: OPPOSans2;
+    font-weight: 500;
+    src: url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Medium.d5bd53c.eot#iefix) format("embedded-opentype"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Medium.a8b67f2.woff) format("woff"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Medium.c8c145e.woff2) format("woff2"),url(https://dsfs.oppo.com/oppo/shop-pc-v2/main/fonts/OPPOSans-Medium.347b641.ttf) format("truetype")
+}
+html {
+    font-family: OPPOSans2,PingFang SC,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+@layer base {
+}
+
+@layer components {
+}
+
+@layer utilities {
+}
